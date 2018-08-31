@@ -30,7 +30,7 @@ Query the data using the `GraphiQL` tab. The `< Docs` link on the right of the q
 
 Below are some basic example queries for the sample database to get you started.
 
-##### Get Each Authors Username & Their Articles
+##### Get Each Author's Username & Their Article Titles
 
 ```
 {
@@ -43,7 +43,7 @@ Below are some basic example queries for the sample database to get you started.
 }
 ```
 
-##### Get A Specific Authors Username & Their Articles
+##### Get A Specific Author's Username & Their Article Titles
 
 ```
 {
